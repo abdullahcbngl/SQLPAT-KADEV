@@ -6,8 +6,8 @@
 --ANSWERS
 --1)
 Create table employee(
-	--id Integer Primary Key, 
-	--name VARCHAR(50) not null, 
+	id Integer Primary Key, 
+	name VARCHAR(50) not null, 
 	birthday DATE, 
 	email VARCHAR(100)
 );
